@@ -1,0 +1,7 @@
+UL - Classe carrinho-itens
+<li com id do produto>
+
+Input com name = Cod do Produto e classe input-quantidade valor 1 por padrao
+Valor Unitario span com id cod do produto + Un e classe unitario
+Sub Total id cod do Produto + Sub classe subTotal
+Link para remover o item com id cod do produto + Remover e classe remover
